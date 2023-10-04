@@ -9,11 +9,9 @@
 
 - 🌱 I’m currently learning **React, Laravel, PHP**
 
-- 👨‍💻 All of my projects are available at [https://johncarlolipa.vercel.app/](https://johncarlolipa.vercel.app/)
-
 - 📫 How to reach me **johncarlolipa@gmail.com**
 
-- ⚡ Cool fact **I write a book about healing**
+- ⚡ Cool fact **I wrote a book about healing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
