@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johncarlolipa&theme=gruvbox" alt="johncarlolipa" /></a> </p>
 
-- 🔭 I’m currently working on [Quote_Board](https://github.com/johncarlolipa/Quote-Board)
+- 🔭 I’m currently working on [Chingu]((https://www.chingu.io/))
 
 - 🌱 I’m currently learning **React, Laravel, PHP**
 
