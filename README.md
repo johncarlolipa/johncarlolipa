@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johncarlolipa&label=Profile%20views&color=0e75b6&style=flat" alt="johncarlolipa" /> </p>
 
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onestar
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onestar" alt="johncarlolipa" /></a> </p>
+
+
 
 - 🔭 I’m currently working on [Chingu](https://www.chingu.io/)
 
