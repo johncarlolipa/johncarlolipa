@@ -9,8 +9,6 @@
 
 - 🔭 I’m currently working on [Chingu](https://www.chingu.io/)
 
-- 🌱 I’m currently learning **Laravel, PHP**
-
 - 📫 How to reach me **johncarlolipa@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
