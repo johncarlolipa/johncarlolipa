@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/john-carlo-lipa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/john-carlo-lipa" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/john-carlo-lipa-8804a8256/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/john-carlo-lipa-8804a8256/" height="30" width="40" /></a>
+<a href="https://codepen.io/john-carlo-lipa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/john-carlo-lipa" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/john-carlo-lipa-8804a8256/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/john-carlo-lipa-8804a8256/" height="30" width="40" /></a>
 <a href="https://instagram.com/lipa.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lipa.dev" height="30" width="40" /></a>
 </p>
 
