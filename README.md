@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm JC</h1>
-<h3 align="center">A web developer from Philippines</h3>
+<h3 align="center">A design system specialist from the Philippines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johncarlolipa&label=Profile%20views&color=0e75b6&style=flat" alt="johncarlolipa" /> </p>
 
@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working on [Chingu](https://www.chingu.io/)
+- 🔭 I’m currently working on [Moji LLC](https://www.moji.love/)
 
 - 📫 How to reach me **johncarlolipa@gmail.com**
 
