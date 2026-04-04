@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working on [Moji LLC](https://www.moji.love/)
+- 🔭 I’m currently working on [Lubin AI](https://lubin.ai/)
 
 - 📫 How to reach me **johncarlolipa@gmail.com**
 
