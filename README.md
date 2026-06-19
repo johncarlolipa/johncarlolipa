@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm JC</h1>
-<h3 align="center">A design system specialist from the Philippines</h3>
+<h3 align="center">A UI/UX Designer and Developer from the Philippines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johncarlolipa&label=Profile%20views&color=0e75b6&style=flat" alt="johncarlolipa" /> </p>
 
